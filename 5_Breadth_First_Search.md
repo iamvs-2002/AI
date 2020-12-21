@@ -34,3 +34,7 @@
     * Queue: L M N
     * Queue: M N
     * Queue: N
+
+    * Example: If we want to find G, b = 3 and d = 2
+        * Therefore, Time complexity = O(b^d) = 3^2 = 9
+        * i.e., At max. 9 searches will be required for finding G in the above tree.
