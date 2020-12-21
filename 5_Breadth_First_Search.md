@@ -4,7 +4,9 @@
 - Shallowest node
 - Complete
 - Optimal solution is guaranteed, i.e., it gives the shortest cost.
-- Time complexity
+- Time complexity = O(V+E)
+     * V = no. of nodes
+     * E = no. of edges
 - Example:
 
 
