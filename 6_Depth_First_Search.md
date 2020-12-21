@@ -10,6 +10,7 @@
 - Time Complexity = O(b^d)
    * b = branch factor
    * d = depth
+- Space Cpmplexity = Number of nodes traversed
 
 - Example:
   *                    A                      level-0
