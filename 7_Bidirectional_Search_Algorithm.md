@@ -1,5 +1,7 @@
 - Bidirectional Search is an extension of BFS or DFS.
 - Two simultaneous search from an initial node to goal and backward to from goal to initial, stopping when two meet.
+- Each search(2 searches, 1 from each end) covers half of the depth => d/2
+- Time complexity = 2*(b^(d/2))
 
 
 - Example:
