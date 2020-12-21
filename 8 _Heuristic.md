@@ -1,1 +1,2 @@
-
+- Heuristic refers to the technique designed to solve a problem quickly.
+- Kind of guess work
