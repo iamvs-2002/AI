@@ -1,2 +1,5 @@
 - Uninformed Search Technique, i.e., we do not have any domain specific knowledge.
 - Based on FIFO(first-in-first-out) eg. Queue
+- Also called as Level Search Technique because it moves level by level.
+- Shallowest node
+- Optimal solution is guaranteed.
