@@ -3,6 +3,7 @@
 - Here we try to find quick solutions.
 - Less time, space complexity.
 
-**Heuristics are used only when the uninformed searching takes exponential time, i.e., in case of a non-polynomial problem.
+
+**Heuristics are used only when the uninformed searching takes exponential time, i.e., in case of a non-polynomial problem.**
 
 For example, In case of Travelling Salesman Problem, we use nearest neighbour method to find the heuristic value for each node.
