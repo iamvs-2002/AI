@@ -1,3 +1,3 @@
-- Uninformed Search is called as Blind Search.
+- Uninformed Search is called as Blind Search / Brute Force Method.
 - Here, we have no prior knowledge, i.e., we search without any information.
 - Exponential time, O(b^d)
