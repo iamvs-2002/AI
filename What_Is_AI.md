@@ -9,4 +9,4 @@ Here comes the role of AI. Imagine an alarm clock who can notice your sleep sche
 
 - As another example, consider the self-automated cars etc.
 
-**Basically we want that just the way a human mind thinks, machines should think in the same way.**
+**Basically we want that just the way a human mind thinks, machines should think in the same way and hence take decisions accordingly.**
