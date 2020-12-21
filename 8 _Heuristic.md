@@ -1,6 +1,6 @@
 - Heuristic refers to the technique designed to solve a problem quickly.
 - Kind of guess work used in Informed Search Approach.
-- Rather than exploring every node, we go the node with the **minimum Heuristic** at the same level.
+- Rather than exploring every node, we go to the node with the **minimum Heuristic** at the same level.
 - To find Heuristic value any of the following method can be used:
   * Eucledian Distance
     * Calculate the distance between two node points (x1,y1) and (x2,y2).
