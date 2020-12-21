@@ -3,7 +3,7 @@
 - Also called as Level Search Technique because it moves level by level.
 - Shallowest node
 - Complete
-- Optimal solution is guaranteed.
+- Optimal solution is guaranteed, i.e., it gives the shortest cost.
 - Time complexity
 - Example:
 
@@ -14,7 +14,7 @@
     *      J    K             L           M              level - 3
     *           N                                        level - 4
     
-    Now, as we start making the queue, 
+    Now, as we start the process, 
     * Queue: A
     * Queue: B C D
     * Queue: C D E F
