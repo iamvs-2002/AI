@@ -2,4 +2,5 @@
 - Based on FIFO(first-in-first-out) eg. Queue
 - Also called as Level Search Technique because it moves level by level.
 - Shallowest node
+- Complete
 - Optimal solution is guaranteed.
