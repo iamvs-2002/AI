@@ -7,3 +7,5 @@ Basically, in AI, we built such systems or machines, which can think or reason a
 But now think that it is Sunday and you want to take some rest due to late night party on Saturday, but the alarm still rings at 6.00 AM and hence disturbs the sleep. 
 Here comes the role of AI. Imagine an alarm clock who can notice your sleep schedules and hence sets the alarm time accordingly, who can check if you want to play golf on Sunday and wake you up accordingly, who can keep a record of your health as per the sleep schedule and hence try to make it better. If such a system is implemented, it would be really benefitial. That's what is called AI.
 
+- As another example, consider the self-automated cars etc.
+
