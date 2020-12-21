@@ -4,6 +4,13 @@
 - Incomplete.
 - Possibility exists that it doesn't give us a result, if there are cycles are in the graph or the depth is infinite(i.e. search space is infinite).
 - Might give non-optimal solution.
+- Time Complexity = O(V+E)
+   * V = no. of nodes
+   * E = no. of edges
+- Time Complexity = O(b^d)
+   * b = branch factor
+   * d = depth
+
 - Example:
   *                    A                      level-0
   *            B              C               level-1
