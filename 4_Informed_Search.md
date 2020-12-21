@@ -6,6 +6,6 @@
 - Example: A* algorithm, Heuristic DFS
 
 
-**Heuristics are used only when the uninformed searching takes exponential time, i.e., in case of a non-polynomial problem.**
+**Heuristics [ h(n) ] are used only when the uninformed searching takes exponential time, i.e., in case of a non-polynomial problem.**
 
 For example, In case of Travelling Salesman Problem, we use nearest neighbour method to find the heuristic value for each node.
