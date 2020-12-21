@@ -1,1 +1,1 @@
-
+- Uninformed Search is called as Blind Search.
