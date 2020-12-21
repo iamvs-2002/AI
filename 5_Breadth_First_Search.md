@@ -38,4 +38,5 @@
 
     * Example: If we want to find G, b = 3 and d = 2
         * Therefore, Time complexity = O(b^d) = 3^2 = 9
-        * That means, at max. 9 searches will be required for finding G in the above tree iff the cose at each edge is same..
+        * That means, at max. 9 searches will be required for finding G in the above tree iff the cose at each edge is same.
+- In case of 8 Puzzle Problem, b is found using the average case = (4x3 + 4x2 + 4x1)/(3x3) = 2.6.. = 3
