@@ -1,2 +1,3 @@
 - Uninformed Search is called as Blind Search.
+- Here, we have no prior knowledge, i.e., we search without any information.
 - Exponential time, O(b^d)
