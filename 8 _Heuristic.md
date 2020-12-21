@@ -7,3 +7,4 @@
   * Manhattan Distance
     * Used to find verical/horizontal distance, eg. 8 Puzzle Problem.
     * *PS: In 8 Puzzle Problem, another method of finding Heuristic value can be finding the number of missing tiles for each node.*
+- Heuristic approach always guarantees the **good solution** but it does not guarantee the optimal solution.
