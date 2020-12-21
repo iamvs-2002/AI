@@ -10,4 +10,4 @@ S : { S , A , Action(S) , Result(S,A) , Cost(S,A) }
 * **Result(S,A)** : The resulting states formed after any action is performed
 * **Cost(S,A)** : The cost paid after a particular action is performed (for example, in searching, the cost of searching should be less)
 
-The action which has the minimum cost is opted.
+*The action which has the minimum cost is opted.*
