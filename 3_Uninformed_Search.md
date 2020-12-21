@@ -1,4 +1,5 @@
 - Uninformed Search is called as Blind Search / Brute Force Method.
 - Here, we have no prior knowledge, i.e., we search without any information.
 - Here we explore all the states and then we compare if the result is equal to the goal state, if yes, we stop else continue exploring.
+- More time, space complexity.
 - Exponential time, O(b^d)
