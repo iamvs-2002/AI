@@ -5,7 +5,7 @@
 - Space Cpmplexity = Number of nodes traversed
 - Advantage over BFS or DFS: Time complexity is reduced, space complexity remains the same.
 - Complete in BFS (Optimal solution is guaranteed).
-- Incomplete in DFS (The solution might be Non-Optimal).
+- Might be incomplete in DFS (The solution might be Non-Optimal).
 - Example:
 
 
