@@ -1,1 +1,1 @@
-
+- Uninformed Search Technique, i.e., we do not have any domain specific knowledge.
