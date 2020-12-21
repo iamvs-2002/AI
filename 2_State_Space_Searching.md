@@ -6,3 +6,4 @@ S : { S , A , Action(S) , Result(S,A) , Cost(S,A) }
 
 * **S** : Set of all possible states: start, intermediate, goal
 * **A** : Set of all possible actions
+* **Action(S)** : The chosen action from the set of all actions
