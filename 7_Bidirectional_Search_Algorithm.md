@@ -3,7 +3,7 @@
 - Each search(2 searches, 1 from each end) covers half of the depth => d/2
 - Time Complexity = 2*(b^(d/2))
 - Space Cpmplexity = Number of nodes traversed
-
+- Advantage over BFS or DFS: Time complexity is reduced, space complexity remains the same.
 
 - Example:
 
