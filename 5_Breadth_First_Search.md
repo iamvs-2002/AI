@@ -4,3 +4,15 @@
 - Shallowest node
 - Complete
 - Optimal solution is guaranteed.
+- Time complexity
+
+
+/*
+*                     A
+*             B       C        D
+*         E   F     G   H      I
+*      I  K         L          M
+*         N          
+*
+*
+*/
