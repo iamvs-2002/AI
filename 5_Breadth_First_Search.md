@@ -7,12 +7,10 @@
 - Time complexity
 
 
-/*
-*                     A
-*             B       C        D
-*         E   F     G   H      I
-*      I  K         L          M
-*         N          
-*
-*
-*/
+
+*                     A                       *level - 0*
+*             B       C        D              *level - 1*
+*         E   F     G   H      I              *level - 2*
+*      I  K         L          M              *level - 3*
+*         N                                   *level - 4*
+
