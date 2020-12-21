@@ -27,3 +27,4 @@
    * Example: If we want to find G, the route is: A->C->G as per the above process
       * b = 2 and d = 2
       * Time Complexity to find G in the above example = O(b^d) = 2^2 = O(4)
+      * That means, we will find G (goal state) within 4 searches iff the cose at each edge is same.
