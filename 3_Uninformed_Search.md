@@ -4,3 +4,4 @@
 - More time, space complexity.
 - Exponential time, O(b^d) where b = branch factor and d = depth.
 - Optimal solution is ensured.
+- Example: Depth First Search, Breadth First Search
