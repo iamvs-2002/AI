@@ -4,4 +4,5 @@ To represent the problem in all set of states, we use **State Space Searching**.
 
 S : { S , A , Action(S) , Result(S,A) , Cost(S,A) }
 
-* **S** : Total number of states: start, intermediate, goal
+* **S** : Set of all possible states: start, intermediate, goal
+* **A** : Set of all possible actions
