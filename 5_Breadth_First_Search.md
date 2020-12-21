@@ -7,6 +7,9 @@
 - Time complexity = O(V+E)
      * V = no. of nodes
      * E = no. of edges
+- Time complexity = O(b^d)
+     * b = branch factor(maximum children of a particular node)
+     * d = depth
 - Example:
 
 
