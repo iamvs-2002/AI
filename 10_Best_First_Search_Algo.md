@@ -3,8 +3,8 @@
 - It guarantees the good solution but it might give non-optimal solution.
 - In an average case, Time Complexity is less than the uninformed searching.
 - In the worst case, the Time Complexity = O(b^d)
- * b = branch factor
- * d = depth
+  * b = branch factor
+  * d = depth
 - Algorithm:
   * Let 'OPEN' be a priority queue containing the initial state.         //priority is based on the heuristic value of that node
   * Loop
