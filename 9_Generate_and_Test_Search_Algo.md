@@ -1,1 +1,2 @@
-
+- Heuristic Technique //Informed Search Technique
+- It uses DFS with backtracking
