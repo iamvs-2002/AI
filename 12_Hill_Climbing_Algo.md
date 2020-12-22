@@ -10,4 +10,4 @@
   * Select and apply a anew operator
   * Evaluate the new state:
       * if goal, then quit
-      * if better than current state, then it is new current state
+      * if better than current state(i.e., heuristic value of the new state less than that of the current state), then it is new current state
