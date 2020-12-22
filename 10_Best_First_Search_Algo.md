@@ -17,7 +17,7 @@
       * if Node is a Goal
       * then return the Path from initial to Node
     * else generate all the successors of the Node and
-    * Put the newly generated Node into OPEN
+    * Put the newly generated Node into OPEN after Sorting
     * according to their f values(heuristic value)
   * END Loop
 - Complete Algorithm because it takes all the elements in the priority queue and hence ensures the optimal solution.
