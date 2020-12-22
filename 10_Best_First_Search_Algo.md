@@ -1,5 +1,6 @@
 - Informed, Heuristic method
 - Greedy for the heuristic value(min)
+- **Here we do not take care about the cost, but only the minimum heuristic value.**
 - It guarantees the good solution but it might give non-optimal solution.
 - In an average case, Time Complexity is less than the uninformed searching.
 - In the worst case, the Time Complexity = O(b^d)
