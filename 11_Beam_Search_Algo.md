@@ -1,1 +1,2 @@
-
+- Takes care of Space Complexity(constant)
+- Beam Width(β) is given.
