@@ -1,2 +1,4 @@
 - Heuristic Technique //Informed Search Technique
 - It uses DFS with backtracking
+- Works in 2 modules: Generate and Test.
+- We generate all the possible solutions.
