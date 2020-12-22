@@ -5,3 +5,7 @@
 - In game playing, Breadth First Search Technique is not used because it works level by level.
 - Max will try to maximize utility(Best move).
 - Min will try to minimize utility(Worst move).
+- Time Complexity = O(b^d)
+  * b = branch factor(i.e. choices)
+  * d = depth/ply
+- Minimax Method can be used only in some games but not in every game because the search tree in some games(eg. chess) will be very vast and hence time complexity will be           infinite. To bring some efficiency, we use α-β pruning method.
