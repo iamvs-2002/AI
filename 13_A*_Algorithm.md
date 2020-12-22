@@ -12,3 +12,6 @@
   * b = branch factor
   * d = depth
 - Space Complexity = O(b^d)
+
+- h(N) : heuristic value/estimated value of the cost from n to the Goal node
+- h*(N) : actual value of the cost from n to the Goal node
