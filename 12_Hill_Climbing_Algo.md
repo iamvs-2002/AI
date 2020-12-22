@@ -19,4 +19,8 @@
        * If we have arrived at M1, the algorithm will stop because just after M1 their is a local minimum. Hill CLimbing Algo rithm only moves if the new state is better than            the current state.
        * i.e., the local maximum is achieved but not the global maximum.
      * Example: In the 8 puzzle problem if all the new states have a heuristic value greater than that of the current state, the Hill Climbing Algorithm will stop on the current          state, which might not be the optimal/best solution(i.e., the goal state).
- *
+ * Plateau/ Flat Maximum
+   * If all the neighbours in the next level have the same heuristic value, the algorithm can't decide which one to choose among them and hence stops.
+ * Ridge
+   * If the direction change is required, Hill Climb Algorithm stops.
+   
