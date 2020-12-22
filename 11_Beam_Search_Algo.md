@@ -5,4 +5,5 @@
 - In Beam Search Algorithm, we keep only some elements in the priority queue(*after sorting*) as per the beam width.
     * If beam width is 2, we keep the best 2 elements in the priority queue.
     * This way the space complexity is reduced.
+    * Because of the beam width search, the space complexity becomes constant.
 - Just like Best First Search Algorithm, here we take care only of the minimum heuristic value and not about the cost of the action.
