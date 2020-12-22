@@ -7,6 +7,7 @@
   * b = branch factor
   * d = depth
 - Here we explore the node with the minimum heuristic value while keeping other nodes in the memory(priority queue).
+  * Hence, the space complexity becomes infinite as all the nodes are kept in the memory/priority queue.
 - After the elements have been added at the end of the queue, we sort(ascending) them according to their heuristic value
 - Algorithm:
   * Let 'OPEN' be a priority queue containing the initial state.         //priority is based on the heuristic value of that node
