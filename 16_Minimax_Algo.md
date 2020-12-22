@@ -1,1 +1,4 @@
-
+- Backtracking algorithm.
+- Best move strategy is used.
+- Max will try to maximize utility(Best move).
+- Min will try to minimize utility(Worst move).
