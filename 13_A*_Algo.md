@@ -21,3 +21,5 @@
 - **Underestimation guarantees the optimal solution whereas Overestimation does not guarantee the optimal solution.**
 - In case of Underestimation:
   * If f(Goal Node) is more than the node(other way from the start node than which we chose), then it will not stop and will go to that node to reach the goal state and hence give     the optimal solution.
+- A* Algorithm is one of the best path finding algorithms.
+- But it does not produce the shortest path always because it heavily depends on heuristics.
