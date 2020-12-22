@@ -8,7 +8,7 @@
       * then return the Path from initial to Node
     * else generate all the successors of the Node and
     * Put the newly generated Node into OPEN
-    * according to their f values
+    * according to their f values(heuristic value)
   * END Loop
 
 
