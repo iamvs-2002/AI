@@ -1,1 +1,2 @@
-
+- In Minimax Algorithm, we had to explore all the nodes and on the basis of it decide the best move for us(Max Player) due to which the search time increased.
+- Here we cut off the search by exploring less number of nodes.
