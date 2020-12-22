@@ -10,3 +10,11 @@
   * b = branch factor(i.e. choices)
   * d = depth/ply
 - Minimax Method can be used only in some games but not in every game because the search tree in some games(eg. chess) will be very vast and hence time complexity will be           infinite. To bring some efficiency, we use α-β pruning method.
+- Here we are maximizing player.
+- Example:
+  * <img src="https://media.geeksforgeeks.org/wp-content/uploads/minmax.png"/>
+  * Maximizer goes LEFT: It is now the minimizers turn. The minimizer now has a choice between 3 and 5. Being the minimizer it will definitely choose the least among both,i.e., 3
+  * Maximizer goes RIGHT: It is now the minimizers turn. The minimizer now has a choice between 2 and 9. He will choose 2 as it is the least among the two values.
+  * Being the maximizer you would choose the larger value that is 3. Hence the optimal move for the maximizer is to go LEFT and the optimal value is 3.
+  * Now the search tree becomes:
+  * <img src = "https://media.geeksforgeeks.org/wp-content/uploads/minmax1.png"/>
