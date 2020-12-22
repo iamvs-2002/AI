@@ -7,4 +7,5 @@
   * Beta is the best value that the minimizer currently can guarantee at that level or above.
 - Initial value of alpha = -infinity
 - Initial value of beta = +infinity
+- The rule which will be followed is: “Explore nodes if necessary otherwise prune the unnecessary nodes.”
 - In the average case, Time Complexity = O(b^(d/2))
