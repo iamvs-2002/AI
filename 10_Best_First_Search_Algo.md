@@ -1,4 +1,6 @@
 - Informed, Heuristic method
+- Greedy for the heuristic value(min)
+- It guarantees the good solution but it might give non-optimal solution.
 - Algorithm:
   * Let 'OPEN' be a priority queue containing the initial state.         //priority is based on the heuristic value of that node
   * Loop
