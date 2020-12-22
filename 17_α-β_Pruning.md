@@ -7,4 +7,4 @@
   * Beta is the best value that the minimizer currently can guarantee at that level or above.
 - Initial value of alpha = -infinity
 - Initial value of beta = +infinity
-- In the best case, Time Complexity = O(b^(d/2))
+- In the average case, Time Complexity = O(b^(d/2))
