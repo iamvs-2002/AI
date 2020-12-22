@@ -8,3 +8,8 @@
   * Generate a possible solution.
   * Test if this solution is the actual solution.
   * If the solution is found, quit, else go back to step 1.
+  
+- Properties of Good Generators:
+  * Complete, i.e., it will definitely give a possible solution by covering all the states.
+  * Non redundant, i.e., we try to reduce the redundant(repeating) states.
+  * Informed.
