@@ -3,7 +3,7 @@
 - Greedy approach.
   * Works till it gets the best move.
   * Once it gets the best move, it stops.
-- No backtracking(if it doesn't find the best move).
+- **No backtracking**(if it doesn't find the best move).
 - Algorithm:
   * Evaluate the initial state
   * Loop until a solution is found or there are no operators left
@@ -11,3 +11,6 @@
   * Evaluate the new state:
       * if goal, then quit
       * if better than current state(i.e., heuristic value of the new state less than that of the current state), then it is new current state
+- Problems in Hill Climbing Algorithm:
+ * Local Maximum
+   * If their is some other state which is better than the current state and the intermediate state between that state and the current state is not a better state as compared to        the current state, the algorithm will stop and hence, we will not reach the optimal solution.
