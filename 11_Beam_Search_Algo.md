@@ -10,3 +10,4 @@
 - Just like Best First Search Algorithm, here we take care only of the minimum heuristic value and not about the cost of the action.
 - Incomplete Algorithm because we might end up at the dead end if the right path is already proned.
 - Ensures good solution but doesn't guarantee Optimal Solution.
+- If β = 1, it is called as Hill Climbing Method.
