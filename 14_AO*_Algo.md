@@ -1,1 +1,3 @@
-
+- Based on AND/OR Graph.
+- Works on the basis of Problem Decomposition(breakdown of complex problem into smaller problems).
+- 
