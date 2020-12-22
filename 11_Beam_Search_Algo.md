@@ -1,2 +1,3 @@
-- Takes care of Space Complexity(constant)
+- An extension of Best First Search Algorithm.
+- Takes care of Space Complexity(constant).
 - Beam Width(β) is given.
