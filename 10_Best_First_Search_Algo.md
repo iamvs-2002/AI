@@ -1,1 +1,1 @@
-
+- Informed, Heuristic method
