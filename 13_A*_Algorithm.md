@@ -1,5 +1,5 @@
 - Informed Searching, Heuristic
-- * here means admissible, i.e., A* algorithm guarantees the optimal solution.
+- "star" here means admissible, i.e., A* algorithm guarantees the optimal solution.
 - f(N) = g(N) + h(N)
   * f(N) = Cost
   * g(N) = Actual cost from the start node to n(intermediate node)
