@@ -20,5 +20,5 @@
     * Put the newly generated Node into OPEN
     * according to their f values(heuristic value)
   * END Loop
-
+- Complete Algorithm because it takes all the elements in the priority queue and hence ensures the optimal solution.
 
