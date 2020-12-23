@@ -40,6 +40,13 @@
     * Based on **Desirable Situation**(Goal).
     * Example of supervised learning.
     * This technique is based on **Searching** and **Planning**.
-    * Environment -> Percept(through sensors) -> Current Situation(of environment) -> Save the state(temporarily) -> Relate to past events -> If/then(condition) -> Thinks of           different possible actions -> Thinks of best action to achieve the goal -> Takes action(based on those past events)(through actuator) -> Change in Environment
+    * Environment -> Percept(through sensors) -> Current Situation(of environment) -> Save the state(temporarily) -> Relate to past events -> If/then(condition) -> Thinks of           different possible actions and their effects -> Thinks of best action to achieve the **goal** -> Takes action(based on those past events)(through actuator) -> Change in         Environment
   * **Utility Based Agents**
+    * **Focus on utility, not goal**.
+    * It depends on the effect of an action on the state of the agent: happy or unhappy state
+    * Utility function is used to measure the happiness or unhapiness of the sate after an action has been performed.
+    * Environment -> Percept(through sensors) -> Current Situation(of environment) -> Save the state(temporarily) -> Relate to past events -> If/then(condition) -> Thinks of           different possible actions and their effects -> Thinks of how happy is the state after the action has been performed -> Takes action(based on those past events)(through actuator) -> Change in Environment
   * **Learning Agents**
+
+
+
