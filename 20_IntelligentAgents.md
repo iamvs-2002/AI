@@ -6,24 +6,27 @@
   * The output is called as Actuator and is given through the Effectors.
   * This output causes some change in the environment.
   * Agent -> Percept -> Decision(Agent Program) -> Actions(Output)
+- 
 - Goals:
   * High Performance
   * Optimized Result
   * Rational Action
+-   
 - Factors behind the model of any agent:
   * **P** : Performace
     * eg. It should ensure safety, comfortness etc.
   * **E** : Environment
   * **A** : Actions
   * **S** : Sensors
+- 
 - Types of Agents:
-  * Simple Reflex Agents
+  * **Simple Reflex Agents**
     * Acts only on the basis of current perception.
     * Takes immediate action without any calculation.
     * Ignores the rest of the percept history(knowledge gained in the past).
     * **Based on If/then rules => condition statements.**
     * Environment should be fully observable(agent should be knowledgeable about the whole environment).
-  * Model Based Reflex Agents
-  * Goal Based Agents
-  * Utility Based Agents
-  * Learning Agents
+  * **Model Based Reflex Agents**
+  * **Goal Based Agents**
+  * **Utility Based Agents**
+  * **Learning Agents**
