@@ -26,6 +26,7 @@
     * Ignores the rest of the percept history(knowledge gained in the past).
     * **Based on If/then rules => condition statements.**
     * Environment should be fully observable(agent should be knowledgeable about the whole environment).
+    * Environment -> Percept(through sensors) -> Current Situation(of environment) -> If/then(condition) -> Action -> Change in Environment
   * **Model Based Reflex Agents**
   * **Goal Based Agents**
   * **Utility Based Agents**
