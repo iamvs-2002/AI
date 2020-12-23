@@ -10,9 +10,22 @@
       * Complex/Composite(multiple sentences making a single proposition)
         * 5 symbols/operators are used:
           * Negation(¬)
+            * NOT the case
+            * P = Today is NOT Monday.
+            * ¬P
           * Disjunction(∨)
+            * OR
+            * You should study(P) OR eat at a time(Q).
+            * P∨Q
           * Conjunction(∧)
+            * AND
+            * I am going to Delhi(P) AND then to Agra(Q).
+            * P∧Q
           * If/then(→)
+            * If it rains today(P), roads will be wet(Q).
+            * P→Q
           * Iff(↔)
+            * You can get a discount(P) only if you are a new customer(Q).
+            * P↔Q
   * Semantic Error
 
