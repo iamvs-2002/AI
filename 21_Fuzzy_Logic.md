@@ -25,3 +25,10 @@
     * Membership value =(45-40)/10=5/10=0.5
     * That means, if speed =45, then we say that the car is fast by a degree of 0.5
   
+- Operations in Fuzzy Logic:
+  * **Union**
+  * **Intersection**
+  * **Complement**
+  * **Bold Union**
+  * **Bold Intersection**
+  * **Equality**
