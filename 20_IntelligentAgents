@@ -12,6 +12,7 @@
   * Rational Action
 - Factors behind the model of any agent:
   * P : Performace
+    * eg. It should ensure safety, comfortness etc.
   * E : Environment
   * A : Actions
   * S : Sensors
