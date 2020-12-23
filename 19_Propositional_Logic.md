@@ -27,5 +27,8 @@
           * Iff(↔)
             * You can get a discount(P) only if you are a new customer(Q).
             * P↔Q
+        * Example:
+          * You can access the internet(P) only if you are a CSE student(Q) or a freshman(R).
+          * P↔Q∨R
   * Semantic Error
 
