@@ -1,3 +1,4 @@
 - **Knowledge** is the skills gained through experience.
 - **Intelligence** is to use that knowledge.
 - **Reasoning** is the processing of knowledge.
+- Now, our main goal is to put these 3 factors in the machines.
