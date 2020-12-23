@@ -1,1 +1,3 @@
-
+- Knowledge is the skills gained through experience.
+- Intelligence is to use that knowledge.
+- Reasoning is the processing of knowledge.
