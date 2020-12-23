@@ -2,3 +2,4 @@
 - **Intelligence** is to use that knowledge.
 - **Reasoning** is the processing of knowledge.
 - Now, our main goal is to put these 3 factors in the machines.
+- The machine acts in the way the knowledge is represented.
