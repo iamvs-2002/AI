@@ -33,7 +33,7 @@
     * Knowledge based agent(past events).
     * **Partially observable** environment.
     * Environment -> Percept(through sensors) -> Current Situation(of environment) -> Save the state(temporarily) -> Relate to past events -> If/then(condition) -> Action(based       on those past events)(through actuator) -> Change in Environment
-    * Store
+    * **Store Percept History(Internal Model).**
   * **Goal Based Agents**
   * **Utility Based Agents**
   * **Learning Agents**
