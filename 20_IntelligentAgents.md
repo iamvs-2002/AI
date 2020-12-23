@@ -18,6 +18,11 @@
   * **S** : Sensors
 - Types of Agents:
   * Simple Reflex Agents
+    * Acts only on the basis of current perception.
+    * Takes immediate action without any calculation.
+    * Ignores the rest of the percept history(knowledge gained in the past).
+    * **Based on If/then rules => condition statements.**
+    * Environment should be fully observable(agent should be knowledgeable about the whole environment).
   * Model Based Reflex Agents
   * Goal Based Agents
   * Utility Based Agents
