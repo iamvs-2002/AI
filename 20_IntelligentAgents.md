@@ -30,10 +30,14 @@
     * Environment -> Percept(through sensors) -> Current Situation(of environment) -> If/then(condition) -> Action(through actuator) -> Change in Environment
     * eg. If temperature>45 degree, switch on the AC.
   * **Model Based Reflex Agents**
+    * Acts on the basis of **current perception + history/past**.
     * Knowledge based agent(past events).
     * **Partially observable** environment.
     * Environment -> Percept(through sensors) -> Current Situation(of environment) -> Save the state(temporarily) -> Relate to past events -> If/then(condition) -> Action(based       on those past events)(through actuator) -> Change in Environment
     * **Store Percept History(Internal Model).**
   * **Goal Based Agents**
+    * Expansion of Model Based Reflex Agents.
+    * Based on **Desirable Situation**(Goal).
+    
   * **Utility Based Agents**
   * **Learning Agents**
