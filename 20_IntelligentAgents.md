@@ -21,11 +21,11 @@
 - 
 - Types of Agents:
   * **Simple Reflex Agents**
-    * Acts only on the basis of current perception.
+    * Acts only on the basis of **current perception**.
     * Takes immediate action without any calculation.
     * Ignores the rest of the percept history(knowledge gained in the past).
     * **Based on If/then rules => condition statements.**
-    * Environment should be fully observable(agent should be knowledgeable about the whole environment).
+    * Environment should be **fully observable**(agent should be knowledgeable about the whole environment).
     * Environment -> Percept(through sensors) -> Current Situation(of environment) -> If/then(condition) -> Action -> Change in Environment
     * eg. If temperature>45 degree, switch on the AC.
   * **Model Based Reflex Agents**
