@@ -10,11 +10,11 @@
   * High Performance
   * Optimized Result
   * Rational Action
-- **Factors behind the model of any agent:**
-  * **P** : Performace
-  * **E** : Environment
-  * **A** : Actions
-  * **S** : Sensors
+- Factors behind the model of any agent:
+  * P : Performace
+  * E : Environment
+  * A : Actions
+  * S : Sensors
 - Types of Agents:
   * Simple Reflex Agents
   * Model Based Reflex Agents
