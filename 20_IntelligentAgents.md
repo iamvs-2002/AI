@@ -27,6 +27,7 @@
     * **Based on If/then rules => condition statements.**
     * Environment should be fully observable(agent should be knowledgeable about the whole environment).
     * Environment -> Percept(through sensors) -> Current Situation(of environment) -> If/then(condition) -> Action -> Change in Environment
+    * eg. If temperature>45 degree, switch on the AC.
   * **Model Based Reflex Agents**
   * **Goal Based Agents**
   * **Utility Based Agents**
