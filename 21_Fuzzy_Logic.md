@@ -6,6 +6,7 @@
 - Fuzzy logic provides us the flexibility between the transition from one state to another.
 - Fuzzy logic is more appropriate way to represent the data as compared to Boolean Logic.
 - Represent the belongingness of a member of a crisp set to fuzzy set.
+- Membership value lies between 0 and 1.
   * Example: Check the degree of fastness of car
     * 0                     : speed(x)<=40
     * (speed(x)-40)/(50-40) : 40<speed(x)<50
@@ -26,9 +27,15 @@
     * That means, if speed =45, then we say that the car is fast by a degree of 0.5
   
 - Operations in Fuzzy Logic:
-  * **Union**
-  * **Intersection**
-  * **Complement**
-  * **Bold Union**
-  * **Bold Intersection**
+  * **Union(∪)**
+    * Max{ membership(X) in A, membership(X) in B} x∈⋃
+  * **Intersection(∩)**
+    * Min{ membership(X) in A, membership(X) in B} x∈⋃
+  * **Complement(A')**
+    * [ 1 - membership(X) in A] x∈⋃
+  * **Bold Union(A (+) B)**
+    * Min{ 1, membership(X) in A + membership(X) in B} 
+  * **Bold Intersection(A o B)**
+    * Max{ 0, membership(X) in A + membership(X) in B - 1}
   * **Equality**
+    * If membership(X) in A = membership(X) in B
