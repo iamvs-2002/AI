@@ -37,5 +37,5 @@
     * Min{ 1, membership(X) in A + membership(X) in B} 
   * **Bold Intersection(A o B)**
     * Max{ 0, membership(X) in A + membership(X) in B - 1}
-  * **Equality**
+  * **Equality(A = B)**
     * If membership(X) in A = membership(X) in B
